@@ -26,7 +26,7 @@ Develop a modern data warehouse using sql server to consolidate sales data ,enab
 Develop sql-based analytics to deliver detailed insigths into:
 - **customer behavior**
 - **product performance**
--  **sales Trends**
+- **sales Trends**
 
 These insights empower stakeholders with key busioness metrice ,enabilig strategic decision-making.
 
@@ -37,4 +37,4 @@ This project is licensed under the [MIT License ].(LICENSE).You are free to use 
 
 ## About Me
 
-Hi there! I'm **Chinnala Nithish Yadav** , currently pursing B.tech final year .I'm an data analyst and passionate about data and analystics!
+Hi there! I'm **Chinnala Nithish Yadav** , currently pursing B.tech final year .I'm an data analyst and passionate about data and deep-seated to extract meaningful insights and knowledge from the information.
